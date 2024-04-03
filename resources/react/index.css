@@ -1,0 +1,16 @@
+.container-sm {
+    padding: 50px;
+    background-color: #f1f1f1;
+    border: 1px solid #c3c7ce;
+    border-radius: 5px;
+}
+
+.nav-bar {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+.input-text {
+    margin-bottom: 20px;
+}
